@@ -114,7 +114,7 @@ SECCIÓN 14–9 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/116677175/219979820-5e963962-e49f-4909-8a84-cebf0197b89a.png)
 
-4)Video
+4)Video: https://youtu.be/QmwJMfmi3DY 
 
 5.Conclusiones
 
