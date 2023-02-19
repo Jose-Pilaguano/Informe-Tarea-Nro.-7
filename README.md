@@ -8,6 +8,11 @@ Fecha: 17/02/23
 
 1. OBJETIVOS
 
+Objetivo General.
+Comprender su funcionamiento: Es importante estudiar los inductores y capacitores para comprender cómo funcionan en un circuito. Los inductores almacenan energía en forma de campo magnético y los capacitores almacenan energía en forma de campo eléctrico, lo que les permite realizar tareas específicas en un circuito.
+
+Objetivos especìficos.
+
 Reforzar el trabajo y uso de las ondas seno en CA(corriente alterna)
 
 Estudiar los capacitores e inductores.
@@ -117,6 +122,10 @@ SECCIÓN 14–9 Localización de fallas
 4)Video: https://youtu.be/QmwJMfmi3DY 
 
 5.Conclusiones
+
+Un inductor es un componente electrónico que se utiliza para almacenar energía en un campo magnético. Consiste en un conductor enrollado en una bobina, que produce un campo magnético cuando una corriente eléctrica pasa a través de ella. La cantidad de energía almacenada en el campo magnético depende del número de vueltas en la bobina y de la intensidad de la corriente eléctrica. Los inductores se utilizan en circuitos electrónicos para filtrar y regular la corriente, y también se utilizan en transformadores para aumentar o disminuir el voltaje de la corriente eléctrica.
+
+Estudiar inductores y capacitores es fundamental para comprender cómo funcionan los circuitos eléctricos y electrónicos, diseñar circuitos, solucionar problemas en los circuitos y mejorar la eficiencia de los mismos.
 
 En conclusión, al realizar este informe pude aprender más el uso de capacitores e inductores, ya que con ello aprendí a identificar de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo de mejor manera el uso y lectura de ondas seno. Además de ello fue importante la realización y desarrollo de los ejercicios propuestos en los capitulos para llevar y reforzar los temas tratados en clase de mejor manera.
 
